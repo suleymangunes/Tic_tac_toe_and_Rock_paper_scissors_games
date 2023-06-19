@@ -1,4 +1,6 @@
-# XOX And Rock Paper Scissors Games
+# Tic Tac Toe And Rock Paper Scissors Games
+
+This add built with Kotlin Android Studio.
 
 ### Home
 
